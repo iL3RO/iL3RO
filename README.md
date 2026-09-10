@@ -49,5 +49,3 @@ Si quieres hablar o tienes alguna duda técnicas:
 
 -  Email: [arooca27@gmail.com](mailto:arooca27@gmail.com)
 
-
-![Profile views](https://komarev.com/ghpvc/?username=iL3RO&color=blue&style=flat)
