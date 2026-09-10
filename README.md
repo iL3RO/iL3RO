@@ -8,9 +8,7 @@
 
 ## Sobre mí
 
-Administrador de sistemas en red (ASIR) con foco en DevOps y ciberseguridad. Aprendo construyendo y rompiendo mis propios entornos con Docker, Ansible y Terraform, y complemento la formación reglada con práctica constante por mi cuenta. En prácticas en Comvive gestioné servidores Linux en producción: certificados SSL, DNS, correo y backups.
-
-Actualmente buscando mi primera oportunidad profesional en un equipo donde aportar desde el primer día.
+Administrador de sistemas en red (ASIR) con foco en DevOps y ciberseguridad, actualmente buscando mi primera oportunidad profesional en un equipo donde aportar desde el primer día.
 
 ## Stack Tecnológico
 
@@ -25,22 +23,16 @@ Actualmente buscando mi primera oportunidad profesional en un equipo donde aport
 
 **Infraestructura**
 
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=debian" width="48"/><br/>Debian</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=arch" width="48"/><br/>Arch</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br/>Kubernetes</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=proxmox" width="48"/><br/>Proxmox</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kvm" width="48"/><br/>KVM</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ansible" width="48"/><br/>Ansible</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=terraform" width="48"/><br/>Terraform</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git</td>
-  </tr>
-</table>
+![Linux](https://img.shields.io/badge/Linux-24292F?style=for-the-badge&logo=linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-24292F?style=for-the-badge&logo=debian&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-24292F?style=for-the-badge&logo=archlinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24292F?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-24292F?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-24292F?style=for-the-badge&logo=proxmox&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-24292F?style=for-the-badge&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-24292F?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-24292F?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-24292F?style=for-the-badge&logo=git&logoColor=white)
 
 **Áreas de interés**
 
@@ -54,6 +46,6 @@ Redes · Cloud Computing · Bases de Datos · Automatización · Ciberseguridad 
 
 ## Contacto
 
-Si quieres hablar de algún proyecto, dudas técnicas o simplemente de tecnología:
+Si quieres hablar o tienes alguna duda técnicas:
 
 -  Email: [arooca27@gmail.com](mailto:arooca27@gmail.com)
