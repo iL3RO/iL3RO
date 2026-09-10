@@ -1,4 +1,3 @@
-<h1 align="center">José Manuel Sierra Aroca</h1>
 <h3 align="center">SysAdmin · DevOps</h3>
 
 <p align="center">
