@@ -7,7 +7,7 @@
 
 ## Sobre mí
 
-Administrador de sistemas en red (ASIR) con foco en DevOps y ciberseguridad, actualmente buscando mi primera oportunidad profesional en un equipo donde aportar desde el primer día.
+Administrador de sistemas en red (ASIR) con foco en DevOps y ciberseguridad.
 
 ## Stack Tecnológico
 
