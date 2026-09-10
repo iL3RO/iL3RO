@@ -40,7 +40,6 @@ Redes · Cloud Computing · Bases de Datos · Automatización · Ciberseguridad 
 ## Actualmente
 
 -  Montando un nuevo servidor propio y una web de portfolio para documentar proyectos
--  Profundizando en Docker, Ansible y Terraform
 -  Buscando mi primera oportunidad profesional en DevOps / SysAdmin
 
 ## Contacto
