@@ -46,5 +46,5 @@ Redes · Cloud Computing · Bases de Datos · Automatización · Ciberseguridad 
 
 Si quieres hablar o tienes alguna duda técnicas:
 
--  Email: [arooca27@gmail.com](mailto:arooca27@gmail.com)
+-  Email: [arooca16@gmail.com](mailto:arooca16@gmail.com)
 
