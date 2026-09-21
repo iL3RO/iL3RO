@@ -39,7 +39,7 @@ Redes · Cloud Computing · Bases de Datos · Automatización · Ciberseguridad 
 
 ## Actualmente
 
--  Montando una app para movil.
+-  Montando una app de deporte y buscando una oportunidad en este sector.
 
 ## Contacto
 
