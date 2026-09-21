@@ -39,8 +39,7 @@ Redes · Cloud Computing · Bases de Datos · Automatización · Ciberseguridad 
 
 ## Actualmente
 
--  Montando un nuevo servidor propio y una web de portfolio para documentar proyectos
--  Buscando mi primera oportunidad profesional en DevOps / SysAdmin
+-  Montando una app para movil.
 
 ## Contacto
 
